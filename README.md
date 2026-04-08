@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Привет
 
-<!--
-**senami27/senami27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📊 Аналитик данных | Data Scientist**  
 
-Here are some ideas to get you started:
+На данный момент работаю Аналитиком данных.
+Развиваюсь в направлении Data Science, в портфолио делюсь учебными проектами.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📖 Образование
+
+- 🎓 **НИУ ВШЭ СПб**:
+  - Бакалавр / Экономика (2012-2016)
+- 📚 **SkillFactory**:
+  - Дополнительное образование / Data Science
+  
+## 📂 Проекты
+
+Все мои проекты по аналитике данных и машинному обучению можно посмотреть тут
+
+
+## 🚀 В настоящее время
+
+- Продолжю обучение в: `SkillFactory`
+- Изучаю и тренируюсь на: Stepik.org, Coursera.org, Simulative.ru
+
+
+## 📬 Контакты и резюме
+
+- 📧 Email: ваш_email@domain.com  
+- 💼 [LinkedIn](ссылка)  
+- 📄 [Резюме (PDF)](ссылка_на_файл_в_репозитории)
+
+<div align="center">
+
+## 🔧 Тех-стек
+
+`🐍 Python` `🐼 Pandas` `🔢 NumPy` `🤖 Scikit-learn` `📉 Matplotlib`  
+`🌿 Greenplum` `📊 Power BI` `📋 Power Query` 
+`💻 VS Code` `⚙️ 1С`  `🗄️ DBeaver`
+
+</div>
+
+⚡ **В поиске работы**: полная занятость, удаленно
