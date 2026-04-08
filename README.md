@@ -28,8 +28,8 @@
 ## 📬 Контакты и резюме
 
 - 📧 Email: ваш_email@domain.com  
-- 💼 [LinkedIn]()  
-- 📄 [Резюме (PDF)]()
+- 💼 LinkedIn
+- 📄 Резюме (PDF)
 
 <div align="center">
 
