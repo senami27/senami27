@@ -3,6 +3,7 @@
 **📊 Аналитик данных | Data Scientist**  
 
 На данный момент работаю Аналитиком данных.
+
 Развиваюсь в направлении Data Science, в портфолио делюсь учебными проектами.
 
 
@@ -27,12 +28,12 @@
 ## 📬 Контакты и резюме
 
 - 📧 Email: ваш_email@domain.com  
-- 💼 [LinkedIn](ссылка)  
-- 📄 [Резюме (PDF)](ссылка_на_файл_в_репозитории)
+- 💼 [LinkedIn]()  
+- 📄 [Резюме (PDF)]()
 
 <div align="center">
 
-## 🔧 Тех-стек
+## 🔧 Стек технологий
 
 `🐍 Python` `🐼 Pandas` `🔢 NumPy` `🤖 Scikit-learn` `📉 Matplotlib`  
 `🌿 Greenplum` `📊 Power BI` `📋 Power Query` 
