@@ -29,7 +29,6 @@
 
 - 📧 Email: nataliasemkina27@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/semkinanatalya/)
-- 📄 [Резюме (PDF)](https://github.com/senami27/Skillfactory_DST) 
 
 <div align="center">
 
