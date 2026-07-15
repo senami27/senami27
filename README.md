@@ -28,7 +28,7 @@
 ## 📬 Контакты и резюме
 
 - 📧 Email: nataliasemkina27@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/semkinanatalya/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/semkinanatalya/)
 
 <div align="center">
 
